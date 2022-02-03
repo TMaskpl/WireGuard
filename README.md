@@ -1,5 +1,5 @@
 # WireGuard
-Ubuntu 21 &lt;---> Mikrotik 7.x
+Ubuntu 21 &lt;---> Mikrotik 7.x - [Download](https://www.wireguard.com/install/)
 
 --------------------------------
 
