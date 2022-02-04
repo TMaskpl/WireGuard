@@ -65,7 +65,7 @@ PersistentKeepalive = 10
 
 /interface/wireguard/peers> print 
 
-0 wireguard-TMask  +DvsrxyWDsCGPWEKrqRdj72....  0.0.0.0  0  0.0.0.0/0
+0 Wireguard-TMask  +DvsrxyWDsCGPWEKr....           0  10.4.4.10/32
 
 
 
